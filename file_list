@@ -1,0 +1,8 @@
+ace_interconnect.v
+axi_addr_logic.v
+fairArb.v
+axi_snoop_logic.v
+or_glogic_wins.v
+cache_line_aggr.v
+mux_sel_cache_line.v
+mux_sel_AC_sigs.v
